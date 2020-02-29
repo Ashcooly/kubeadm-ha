@@ -17,7 +17,7 @@ docker pull quay.azk8s.cn/coreos/flannel:v0.11.0-amd64
 docker pull quay.azk8s.cn/kubernetes-ingress-controller/nginx-ingress-controller:0.26.1 
 
 docker save \
-    docker pull dockerhub.azk8s.cn/setzero/ansible:2.8.5-nginx-1.17.6-alpine \
+    dockerhub.azk8s.cn/setzero/ansible:2.8.5-nginx-1.17.6-alpine \
     dockerhub.azk8s.cn/library/nginx:1.17.5-alpine \
     dockerhub.azk8s.cn/kubernetesui/dashboard:v2.0.0-beta8 \
     dockerhub.azk8s.cn/kubernetesui/metrics-scraper:v1.0.2 \
