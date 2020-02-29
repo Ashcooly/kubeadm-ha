@@ -50,6 +50,7 @@
         <td><a target="_blank" href="docs/05-集群备份.md">05-集群备份</a></td>
         <td><a target="_blank" href="docs/06-集群恢复.md">06-集群恢复</a></td>
         <td><a target="_blank" href="docs/07-集群重置.md">07-集群重置</a></td>
+        <td><a target="_blank" href="docs/08-离线安装.md">08-离线安装</a></td>
     </tr>
 </table>
 
